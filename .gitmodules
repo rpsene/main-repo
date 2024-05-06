@@ -1,0 +1,3 @@
+[submodule "submodule-01"]
+	path = submodule-01
+	url = https://github.com/rpsene/submodule-01.git
