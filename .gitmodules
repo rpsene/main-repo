@@ -1,3 +1,6 @@
 [submodule "submodule-01"]
 	path = submodule-01
 	url = https://github.com/rpsene/submodule-01.git
+[submodule "riscv-tests"]
+	path = riscv-tests
+	url = https://github.com/riscv-software-src/riscv-tests.git
